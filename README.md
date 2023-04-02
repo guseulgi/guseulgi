@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/C&nbsp;Sharp-3f0097?style=flat-square&logo=CSharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-69cf00?style=flat-square&logo=Node.js&logoColor=white"/>
-<br/>
-<span><strong>곧 습득할 기술</strong></sapn> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <br/>
 <span><strong>협업 관련 툴</strong></sapn> 
