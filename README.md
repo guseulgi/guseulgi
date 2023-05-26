@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38)
 ### Hello, My Github! :sparkles:
-안녕하세요. 웹개발자를 꿈꾸는 구슬기라고 합니다. <br/>
+안녕하세요. 프론트엔드 개발자를 꿈꾸는 구슬기라고 합니다. <br/>
 22년도 게임 개발자를 꿈꾸며 비전공자로써 C#과 Unity를 공부하였습니다. 그리고 학원 수료 후, 노력 끝에 클라이언트팀의 인턴으로 입사하였습니다.<br/><br/>
 그때 제일 처음 맡았던 업무는 Pet 시스템에 관련된 UI쪽 로직으로, MVC패턴에 관련된 지식과 협업에 대해 차근히 접할 수 있었습니다. 지루할 것처럼 느껴졌던 UI는 제 생각보다 훨씬 매력적이었어서 그대로 웹개발에 발을 딛게 되었고 KDT 포스코&코딩온 수업 과정을 수료하고, 현재도 프론트엔드 개발자의 역량을 기르고 있습니다! <br/>
 - 웹 개발 : React
