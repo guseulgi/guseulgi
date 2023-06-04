@@ -72,8 +72,10 @@
   </a>
 </div>
 <br/><br/>
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=front-kuli&theme=tistory)](https://easyhomputer.tistory.com)
 
-![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Seulgi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guseulgi&show_icons=true&theme=swift)
 
   
