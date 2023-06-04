@@ -18,7 +18,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass&amp;Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled&nbsp;components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
+    <br/>    &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -72,7 +73,7 @@
 </div>
 <br/><br/>
 
-![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true) &nbsp;&nbsp;&nbsp;
+![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Seulgi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guseulgi&show_icons=true&theme=swift)
 
   
