@@ -10,7 +10,7 @@
 <i>React</i>를 기반으로 상태관리를 위한 Recoil을 사용하거나 공공 API를 다루기 위해 프록시 우회를 해보는 등 여러 작업을 수행하고 있습니다. <br/>
 특히나 웹 페이지의 반응형 작업을 하다가 크로스 플랫폼에 관심이 생겨, <i>React Native</i> 와 <i>Flutter</i>도 공부하고 있습니다. :) <br/><br/>
 <div style={{ display: 'flex', }}>
-  <h2>Skills</h3>
+  <h2>🔨 Skills</h3>
   <div style={{ display: 'flex', }}>
     <h4>Web Frontend Dev.</h4>
     &nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@
 <div>
 <br/>
 <div style={{ display: 'flex', }}>
-  <h2>Contact!</h2>
+  <h2>🧑‍💻 Contact!</h2>
   <p>📌 클릭하면 이동합니다.</p>
   <a href="https://www.notion.so/251597ce335d465ead58f8707a8aff71?pvs=4" target="_blank" title="Seulgi's Notion">
     <img src="https://img.shields.io/badge/Notion&nbsp;Self&nbsp;Introduction-black?style=flat-square&logo=Notion&logoColor=white"/>
