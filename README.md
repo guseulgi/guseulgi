@@ -78,6 +78,7 @@
 ![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Seulgi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guseulgi&show_icons=true&theme=swift)
 
+![Seulgi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guseulgi)
   
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguseulgi%2Fguseulgi&count_bg=%2375D82A&title_bg=%23636363&icon=github.svg&icon_color=%23FFFFFF&title=Customers&edge_flat=true)
 
