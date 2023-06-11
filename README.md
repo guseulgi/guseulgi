@@ -8,7 +8,7 @@
 <strong>23년 상반기 KDT 포스코&코딩온 웹 개발자 입문 과정</strong>을 수료하고, 지금도 프론트엔드 개발자로서 역량을 기르고 있습니다.<br/><br/>
 ### 💻 매일 1커밋과 TIL(Today I Learned) 를 실천하는 주니어 개발자
 <i>React</i>를 기반으로 상태관리를 위한 Recoil을 사용하거나 공공 API를 다루기 위해 프록시 우회를 해보는 등 여러 작업을 수행하고 있습니다. <br/>
-특히 웹 페이지의 반응형 작업을 하다가 크로스 플랫폼에 관심이 생겨, <i>React Native</i> 와 <i>Flutter</i>도 공부하고 있습니다. :) <br/><br/>
+특히 웹 페이지의 반응형 작업을 하다가 크로스 플랫폼에 관심이 생겨, <i>React Native</i> 와 <i>Flutter</i>도 다뤄보고 있습니다. :) <br/><br/>
 <div style={{ display: 'flex', }}>
   <h2>🔨 Skills</h3>
   <div style={{ display: 'flex', }}>
