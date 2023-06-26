@@ -1,19 +1,13 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38) -->
 ### ✨ Hello, Seulgi's Github!
-안녕하세요!
-22년도 게임 개발자를 꿈꾸며 비전공자로써 <i>C#</i>과 <i>Unity</i>를 공부하였고, 클라이언트팀의 인턴으로 입사하였습니다.<br/>
-개발자로서 처음 맡았던 업무는 Pet 시스템에 관련된 UI쪽 로직으로, MVC패턴 등 개발에 관련된 지식과 서버/기획/아트팀과의 협업을 경험할 수 있는 기간이었습니다! <br/>
-지루할 것처럼 느껴졌던 UI는 제 생각과 달리 <strong>매력적</strong>이었어서 그대로 웹개발에 발을 딛게 되었고, <br/>
-<strong>23년 상반기 KDT 포스코&코딩온 웹 개발자 입문 과정</strong>을 수료하고, 지금도 프론트엔드 개발자로서 역량을 기르고 있습니다.<br/><br/>
-### 💻 매일 1커밋과 TIL(Today I Learned) 를 실천하는 주니어 개발자
-<i>React</i>를 기반으로 상태관리를 위한 Recoil을 사용하거나 공공 API를 다루기 위해 프록시 우회를 해보는 등 여러 작업을 시도해보았습니다. <br/>
-특히 웹 페이지의 반응형 작업을 하다가 크로스 플랫폼에 관심이 생겨, <i>React Native</i>도 다뤄보았습니다. :) <br/>
-근래 백엔드쪽 역량을 늘리고자 Next.js 로 SSR를, Python과 Orange data mining 으로 머신러닝을 다뤄보고 있습니다.
+안녕하세요. 게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
+내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다.
+### 최근 관심 있는 기술은 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <br/><br/>
 <div style={{ display: 'flex', }}>
   <h2>🔨 Skills 
-    <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iTerm2&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white"/>  
   </h2>
   <div style={{ display: 'flex', }}>
     <h4>💡 Frontend Dev.</h4>
@@ -73,24 +67,18 @@
   <h2>🧑‍💻 Contact!</h2>
   <p>📌 클릭하면 이동합니다.</p>
   <a href="https://www.notion.so/251597ce335d465ead58f8707a8aff71?pvs=4" target="_blank" title="Seulgi's Notion">
-    <img src="https://img.shields.io/badge/Notion&nbsp;Self&nbsp;Introduction-black?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion&nbsp;Self&nbsp;Introduction-black?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
   <a href="mailTo:guseul9405@gmail.com" target="_blank" title="Seulgi's Gmail">
-    <img src="https://img.shields.io/badge/guseul9405&#64;gmail&#46;com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/guseul9405&#64;gmail&#46;com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://front-kuli.tistory.com/" target="_blank" title="Seulgi's Tistory">
-    <img src="https://img.shields.io/badge/Tistory&nbsp;Today&nbsp;I&nbsp;Learned-black?style=flat-square&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory&nbsp;Today&nbsp;I&nbsp;Learned-black?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 </div>
+<h3> 💻 매일 1커밋과 TIL<i>(Today I Learned)</i>를 실천하는 주니어 개발자입니다! </h3>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=front-kuli&theme=tistory)](https://easyhomputer.tistory.com)
-  
-<div style={{ display: 'flex', }}>
-  <h2>🐥 Ambition</h2>
-  <p>게임 개발을 위한 C, C++, C#부터 웹 개발을 위한 Javascript까지 다뤄보면서 고급 언어에 대한 이해가 깊어졌습니다.<br/>
-    React를 접해보니, 자유도는 적겠지만 코딩 스타일이 정해져있는 <i>Vue.js</i>도 기회가 된다면 접해보고 싶습니다. </p>
-</div>
-<br/>
 
 
 <!-- ![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
