@@ -2,7 +2,7 @@
 ### ✨ Hello, Seulgi's Github!
 안녕하세요. 게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
 내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다.
-### 최근 관심 있는 기술
+### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> SSR 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> Machine Learning 
 - <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/> Cloud Computing 
@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <br/>    &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -40,7 +39,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/.env-ECD53F?style=flat-square&logo=.env&logoColor=black"/>
   <div>
   <div style={{ display: 'flex', }}>
     <h4>Fullstack Dev.</h4>
@@ -79,7 +77,7 @@
     <img src="https://img.shields.io/badge/Tistory&nbsp;Today&nbsp;I&nbsp;Learned-black?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 </div>
-<h3> 💻 매일 1커밋과 TIL<i>(Today I Learned)</i>를 실천하는 주니어 개발자입니다! </h3>
+<h3> 💻 매일 1커밋과 TIL<i>(Today I Learned)</i>를 실천합니다! </h3>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=front-kuli&theme=tistory)](https://easyhomputer.tistory.com)
 
