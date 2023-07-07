@@ -4,7 +4,6 @@
 내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다.
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> SSR 
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> Machine Learning 
 - <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/> Cloud Computing 
 <br/><br/>
 <div style={{ display: 'flex', }}>
