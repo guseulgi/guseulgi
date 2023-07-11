@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38) -->
 ### ✨ Hello, Seulgi's Github!
 안녕하세요. 게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
-내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다.
+내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다. <br/>
 🧑‍💻 현재 (주)태영소프트에서 근무 중이며, 의료 영상 기반 웹 플랫폼을 전담하고 있습니다.
 
 ### 최근 관심 있는 기술 🔨
@@ -59,6 +59,7 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
