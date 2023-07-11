@@ -2,6 +2,8 @@
 ### ✨ Hello, Seulgi's Github!
 안녕하세요. 게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
 내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다.
+🧑‍💻 현재 (주)태영소프트에서 근무 중이며, 의료 영상 기반 웹 플랫폼을 전담하고 있습니다.
+
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> SSR 
 - <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/> Cloud Computing 
