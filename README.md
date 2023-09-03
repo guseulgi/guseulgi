@@ -1,8 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38) -->
 ### ✨ Hello, Seulgi's Github!
 안녕하세요. 게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
-내가 아는 것을 나누고, 모르는 것을 채워가는 것을 미덕으로 여기며, 노력은 배신하지 않는다는 것을 몸소 깨닫고 최선을 다하는 것을 중시합니다. <br/>
-🧑‍💻 현재 (주)태영소프트에서 근무 중이며, 의료 영상 기반 웹 플랫폼을 전담하고 있습니다.
+현재 (주)태영소프트에서 근무 중이며, 의료 영상 기반 웹 플랫폼 개발 중입니다.
 
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> DICOM & Picture Archiving Communication System 
@@ -89,7 +88,7 @@
     <img src="https://img.shields.io/badge/Tistory&nbsp;Today&nbsp;I&nbsp;Learned-black?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 </div>
-<h3> 💻 매일 1커밋과 TIL<i>(Today I Learned)</i>를 실천합니다! </h3>
+<h3> 💻 매일 1커밋과 배운 것을 TIL<i>(Today I Learned)</i> 정리합니다! </h3>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=front-kuli&theme=tistory)](https://easyhomputer.tistory.com)
 
