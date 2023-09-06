@@ -5,7 +5,6 @@
 
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> DICOM & Picture Archiving Communication System 
-- <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/> Cloud Computing 
 <br/><br/>
 <div style={{ display: 'flex', }}>
   <h2>🔨 Skills 
