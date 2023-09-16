@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38) -->
 ### ✨ Hello, Seulgi's Github!
-안녕하세요. 게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
+게임 개발부터 웹 개발까지, 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
 현재 (주)태영소프트에서 근무 중이며, 의료 영상 기반 웹 플랫폼 개발 중입니다.
 
 ### 최근 관심 있는 기술 🔨
