@@ -4,8 +4,10 @@
 현재 (주)태영소프트에서 근무 중이며, 의료 영상 기반 웹 플랫폼 개발과 AI 개발을 직접 부딪히며 배워가고 있습니다.
 
 ### 최근 관심 있는 기술 🔨
-- <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> DICOM & Picture Archiving Communication System 
+- <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> DICOM & Picture Archiving Communication System
+- 3D Web Modeling
 <br/><br/>
+
 <div style={{ display: 'flex', }}>
   <h2>🔨 Skills 
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>  
