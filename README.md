@@ -5,7 +5,8 @@
 
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> DICOM & Picture Archiving Communication System
-- 3D Web Modeling : Babylonjs, 3D Slicer
+- Python
+- Medical 3D Modeling : Babylonjs, 3D Slicer
 <br/><br/>
 
 <div style={{ display: 'flex', }}>
