@@ -83,13 +83,17 @@
   <h2>🧑‍💻 Contact!</h2>
   <p>📌 클릭하면 이동합니다.</p>
   <a href="https://www.notion.so/251597ce335d465ead58f8707a8aff71?pvs=4" target="_blank" title="Seulgi's Notion">
-    <img src="https://img.shields.io/badge/Notion&nbsp;Self&nbsp;Introduction-black?style=for-the-badge&logo=Notion&logoColor=white"/>
-  </a>
-  <a href="mailTo:guseul9405@gmail.com" target="_blank" title="Seulgi's Gmail">
-    <img src="https://img.shields.io/badge/guseul9405&#64;gmail&#46;com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion&nbsp;Introduction-black?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://front-kuli.tistory.com/" target="_blank" title="Seulgi's Tistory">
     <img src="https://img.shields.io/badge/Tistory&nbsp;Today&nbsp;I&nbsp;Learned-black?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="mailTo:guseul9405@gmail.com" target="_blank" title="Personal Contact">
+    <img src="https://img.shields.io/badge/guseul&#64;gamil&#46;com-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=EA4335"/>
+  </a>
+  <a href="mailTo:guseul@tysoft.co.kr" target="_blank" title="Business Contact">
+    <img src="https://img.shields.io/badge/guseul&#64;tysoft&#46;co&#46;kr-FFFFFF?style=for-the-badge&logo=Naver&logoColor=Green"/>
   </a>
 </div>
 <h3> 💻 매일 1커밋과 배운 것을 TIL<i>(Today I Learned)</i> 정리합니다! </h3>
