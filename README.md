@@ -7,8 +7,9 @@
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> Part 3
 - Python
   - wxPython
-  - pydicom / pynetdicom (Medical Networking)
-- 3D Modeling : Babylonjs, 3D Slicer
+  - pydicom / pynetdicom (DICOM Networking)
+- Digital media processing
+  - Volume Rendering
 <br/><br/>
 
 <div style={{ display: 'flex', }}>
