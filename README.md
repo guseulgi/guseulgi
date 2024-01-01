@@ -5,16 +5,18 @@
 
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> Part 3
-- SQL
+- DB
   - PL/SQL
-  - Data modeling
+  - Data modeling (DAP)
 - Python
-  - wxPython
+  - PySide6 / wxPython
   - pydicom / pynetdicom (DICOM Networking)
-  - django
 - Digital media processing (Volume Rendering)
   - VTK
   - Simple ITK
+- JS
+  - NEXT.js
+  - zustand
 <br/><br/>
 
 <div style={{ display: 'flex', }}>
