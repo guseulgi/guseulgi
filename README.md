@@ -7,13 +7,14 @@
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> Part 3
 - DB
   - PL/SQL
-  - Data modeling (DAP)
+  - Data modeling
 - Python
-  - PySide6 / wxPython
+  - PySide6
   - pydicom / pynetdicom (DICOM Networking)
-- Digital media processing (Volume Rendering)
+- Volume Rendering
   - VTK
   - Simple ITK
+  - 3D Slicer
 - JS
   - NEXT.js
   - zustand
