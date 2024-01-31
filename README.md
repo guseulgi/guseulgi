@@ -40,7 +40,8 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/><br/><br/>
 <!--     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> -->
   <div>
-    <i><h3 style={{ backgroundColor : 'gray', }}>&nbsp;&nbsp;&nbsp;Main Skills</h2></i>
+    <i> <h3 style={{ backgroundColor : 'gray', }}>&nbsp;&nbsp;&nbsp; Main Skills</h2> </i>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;
     ㄴ &nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
