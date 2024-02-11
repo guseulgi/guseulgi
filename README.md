@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38) -->
 ### ✨ Hello, Seulgi's Github!
 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
-현재 (주)태영소프트 전략연구개발사업부 소속으로, 의료 영상(DICOM) 네트워킹 프로그램과 웹 플랫폼 개발에 착수 중입니다. <br/>
+현재 (주)태영소프트 전략연구개발사업부 소속 영상 의료 관련 통합 웹 플랫폼 개발에 착수 중입니다. <br/>
 
 ### 최근 관심 있는 기술 🔨
 - <img src="https://img.shields.io/badge/DICOM-000000?style=for-the-badge&logoColor=black"/> Part 3
