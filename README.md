@@ -9,6 +9,7 @@
   - PL/SQL
   - Data modeling
 - Python
+  - Flask (flask-restx)
   - PySide6
   - pydicom / pynetdicom (DICOM Networking)
 - Volume Rendering
