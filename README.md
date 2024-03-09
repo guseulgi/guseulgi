@@ -8,8 +8,11 @@
 - DB
   - PL/SQL
   - Data modeling
+  - MySQL
+  - PostgreSQL
 - Python
   - Flask (flask-restx)
+  - SQLAlchemy
   - PySide6
   - pydicom / pynetdicom (DICOM Networking)
 - Volume Rendering
