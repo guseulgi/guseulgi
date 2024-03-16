@@ -13,8 +13,7 @@
 - Python
   - Flask (flask-restx)
   - SQLAlchemy
-  - PySide6
-  - pydicom / pynetdicom (DICOM Networking)
+  - pydicom / pynetdicom
 - Volume Rendering
   - VTK
   - Simple ITK
@@ -96,9 +95,9 @@
 <div style={{ display: 'flex', }}>
   <h2>🧑‍💻 Contact!</h2>
   <p>📌 클릭하면 이동합니다.</p>
-  <a href="https://www.notion.so/251597ce335d465ead58f8707a8aff71?pvs=4" target="_blank" title="Seulgi's Notion">
+<!--   <a href="https://www.notion.so/251597ce335d465ead58f8707a8aff71?pvs=4" target="_blank" title="Seulgi's Notion">
     <img src="https://img.shields.io/badge/Notion&nbsp;Introduction-black?style=for-the-badge&logo=Notion&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://front-kuli.tistory.com/" target="_blank" title="Seulgi's Tistory">
     <img src="https://img.shields.io/badge/Tistory&nbsp;Today&nbsp;I&nbsp;Learned-black?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
