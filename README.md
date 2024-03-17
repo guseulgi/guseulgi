@@ -109,9 +109,6 @@
     <img src="https://img.shields.io/badge/guseul&#64;tysoft&#46;co&#46;kr-FFFFFF?style=for-the-badge&logo=Naver&logoColor=Green"/>
   </a>
 </div>
-<h3> 💻 배운 것을 TIL<i>(Today I Learned)</i>를 하며 성장하고 있습니다! </h3>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=front-kuli&theme=tistory)](https://easyhomputer.tistory.com)
 
 
 <!-- ![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guseulgi&theme=swift&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
