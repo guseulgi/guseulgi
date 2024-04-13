@@ -14,6 +14,9 @@
 - JS
   - NEXT.js
   - zustand
+  - React query
+- Fullstack
+  - Restful API 지향
 <br/><br/>
 
 <div style={{ display: 'flex', }}>
