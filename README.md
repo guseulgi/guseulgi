@@ -7,16 +7,16 @@
 - DB
   - MySQL
   - PostgreSQL
+  - SQLAlchemy (ORM)
 - Python
   - Flask (flask-restx)
-  - SQLAlchemy
   - pydicom / pynetdicom
 - JS
   - NEXT.js
   - zustand
   - React query
 - Fullstack
-  - Restful API 지향
+  - Restful API
 <br/><br/>
 
 <div style={{ display: 'flex', }}>
