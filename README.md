@@ -1,95 +1,64 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seulgi's&nbsp;Profile&fontSize=60&animation=fadeIn&fontColor=323931&fontAlignY=38) -->
 ### ✨ Hello, Seulgi's Github!
-다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
-현재 (주)태영소프트 전략연구개발사업부 소속 영상 의료 관련 통합 웹 플랫폼 개발에 착수 중입니다. <br/>
-
-### 최근 관심 있는 기술 🔨
-- DB
-  - MySQL
-  - PostgreSQL
-  - SQLAlchemy (ORM)
-- Python
-  - Flask (flask-restx)
-  - pydicom / pynetdicom
-- JS
-  - NEXT.js
-  - zustand
-  - React query
-- Fullstack
-  - Restful API
-<br/><br/>
+게임, 웹, 응용 소프트웨어 등 다양한 분야에 도전하는 주니어 개발자 구슬기입니다! <br/>
+현재 (주)태영소프트 전략연구개발사업부 sRND팀의 <b>영상 의료 웹 플랫폼</b> 프로젝트에서 파이썬 프로그램 및 서버를 담당하고 있습니다. <br/><br/>
 
 <div style={{ display: 'flex', }}>
-  <h2>🔨 Skills 
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white"/>  
-  </h2>
+  <h2>🔨 Skills</h2>
+  <div>
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white"/> 
+  </div>
+
+  <div style={{ display: 'flex', }}>
+    <h4>Software Dev.</h4>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <div>
+  
   <div style={{ display: 'flex', }}>
     <h4>Frontend Dev.</h4>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass&amp;Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled&nbsp;components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React&nbsp;Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/><br/><br/>
-<!--     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> -->
-  <div>
-    <i> <h3 style={{ backgroundColor : 'gray', }}>&nbsp;&nbsp;&nbsp; Main Skills</h2> </i>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-    &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-    ㄴ &nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-    ㄴ &nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
   </div>
-  </div>
+  
   <div style={{ display: 'flex', }}>
     <h4>Backend Dev.</h4>
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-69cf00?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <div>
+
+  <div style={{ display: 'flex', }}>
+    <h4>Database Dev.</h4>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Sqlalchemy-06B6D4?style=flat-square&logo=sqlalchemy&logoColor=black"/>
   <div>
+    
   <div style={{ display: 'flex', }}>
-    <h4>Fullstack Dev.</h4>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <div>
-  <div style={{ display: 'flex', }}>
-    <h4>Game Client Dev.</h4>
+    <h4>Ect.</h4>
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/C&nbsp;&#x266F;-3f0097?style=flat-square&logo=CSharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=white"/>
-  <div>
-  <div style={{ display: 'flex', }}>
-    <h4>Devops.</h4>
-    &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <div> 
 <div>
-<br/>
+<br/><br/>
+  
 <div style={{ display: 'flex', }}>
-  <h2>🧑‍💻 Contact!</h2>
   <p>📌 클릭하면 이동합니다.</p>
 <!--   <a href="https://www.notion.so/251597ce335d465ead58f8707a8aff71?pvs=4" target="_blank" title="Seulgi's Notion">
     <img src="https://img.shields.io/badge/Notion&nbsp;Introduction-black?style=for-the-badge&logo=Notion&logoColor=white"/>
